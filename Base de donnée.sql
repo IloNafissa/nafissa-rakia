@@ -1,6 +1,6 @@
-CREATE DATABASE scolarite;
+CREATE DATABASE nafissa;
 
-USE scolarite;
+USE nafissa;
 
 
 CREATE TABLE etudiant (
